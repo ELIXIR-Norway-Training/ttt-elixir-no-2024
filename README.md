@@ -1,5 +1,8 @@
-# ELIXIR Norway's Train-the-Trainer 2024 Course
+# ELIXIR GOBLET Train-the-Trainer
+### Organised by ELIXIR Norway
 
-## Click here for registration
+
+
+## [Click here for registration]()
 
 ## Course Schedule
