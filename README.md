@@ -11,11 +11,11 @@ The Train-the-Trainer course is for anyone regardless of academic background, an
 
 ## Course Schedule
 
-| Date, Day, Time (CEST) | Session | Instructor(s) |
-|:--:|:--:|:--:|
-| 22-04-2024, Monday, 13-16 | Session 1 | Dorota Buczek, Nazeefa Fatima |
-| 26-04-2024, Friday, 09-12 | Session 2 | Patricia Palagi, Nazeefa Fatima |
-| 28-04-2024, Monday, 13-16 | Session 3 | Federico Bianchini, Arturo |
-| 03-05-2024, Friday, 09-12 | Session 4 | Sebastian Petters, Espen Åberg |
+| Date | Day, Time (CEST) | Session | Instructor(s) |
+|:--:|:--:|:--:|:--:|
+| 22-04-2024| Monday, 13-16 | Session 1 | Dorota Buczek, Nazeefa Fatima |
+| 26-04-2024| Friday, 09-12 | Session 2 | Patricia Palagi, Nazeefa Fatima |
+| 28-04-2024| Monday, 13-16 | Session 3 | Federico Bianchini, Arturo |
+| 03-05-2024| Friday, 09-12 | Session 4 | Sebastian Petters, Espen Åberg |
 
 For any questions, please contact nazeefaf@uio.no
