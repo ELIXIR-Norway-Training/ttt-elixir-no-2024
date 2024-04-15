@@ -18,4 +18,6 @@ The Train-the-Trainer course is for anyone regardless of academic background, an
 | 28-04-2024| Monday, 13-16 | Session 3 | Federico Bianchini, Arturo |
 | 03-05-2024| Friday, 09-12 | Session 4 | Sebastian Petters, Espen Åberg |
 
+Course material (slides and shared notes) will be available via GitHub and Zenodo.
+
 For any questions, please contact nazeefaf@uio.no
