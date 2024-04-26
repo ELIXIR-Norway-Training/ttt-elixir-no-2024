@@ -15,9 +15,9 @@ The Train-the-Trainer course is for anyone regardless of academic background, an
 |:--:|:--:|:--:|:--:|
 | 22-04-2024| Monday, 13-16 | Session 1 | Dorota Buczek, Nazeefa Fatima |
 | 26-04-2024| Friday, 09-12 | Session 2 | Patricia Palagi, Nazeefa Fatima |
-| 28-04-2024| Monday, 13-16 | Session 3 | Federico Bianchini, Arturo |
+| 28-04-2024| Monday, 13-16 | Session 3 | Federico Bianchini, Arturo Vera Ponce De Leon |
 | 03-05-2024| Friday, 09-12 | Session 4 | Sebastian Petters, Espen Åberg |
 
-Course material (slides and shared notes) will be available via GitHub and Zenodo.
+Course material will be available via GitHub and Zenodo. Shared notes are available via Google Docs.
 
-For any questions, please contact nazeefaf@uio.no
+For any questions, please contact support@elixir.no, nazeefaf@uio.no.
